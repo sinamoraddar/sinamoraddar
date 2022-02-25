@@ -6,6 +6,7 @@ A developer you can rely on to get your product shipped with confidence while yo
 
 - 🔭 I’m currently working on React.js
 - 👯 I’m looking to collaborate on Javscript/Typescript projects
+- 🧑🏻‍💻 Intersted in working on open source projects
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: sinamoraddar@gmail.com
 
