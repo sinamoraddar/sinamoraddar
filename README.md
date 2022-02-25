@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm Sina.
-A developer which you can rely on to get your product shipped with confidence while you can relax and have a sip on your coffee ☕️.
+I'm Sina. 
+
+A developer you can rely on to get your product shipped with confidence while you can relax and have a sip on your coffee ☕️.
 
 - 🔭 I’m currently working on React.js
 - 👯 I’m looking to collaborate on Javscript/Typescript projects
